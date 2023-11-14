@@ -29,9 +29,13 @@ npm run start
 
 ### Below end points are supported:
 /login/register
+
 /login/userlogin
+
 /:shortid
+
 /url/short
+
 /url/history
 
 
