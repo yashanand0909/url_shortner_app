@@ -8,8 +8,8 @@ Follow these steps to set up and run the URL shortener on your local machine.
 ### Prerequisites
 Make sure you have the following installed on your machine:
 
-Node.js
-MongoDB
+Node.js,
+MongoDB,
 Redis
 
 ### Clone the repository:
